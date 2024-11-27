@@ -49,10 +49,10 @@
   - 🏅 Sport enthusiast
   
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MatteoCus&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gigiuz&show_icons=true&theme=tokyonight" />
 
 ### Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteoCus&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gigiuz&show_icons=true&theme=tokyonight" />
 <!--
 **MatteoCus/MatteoCus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
