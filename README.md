@@ -37,8 +37,8 @@
 - About me:
   - 🏢 I'm currently working as a full-stack developer in a multimedia content management application and also as personal trainer
     -  Angular, JS/TS Express.js, PostgreSQL 
-  - 🏫 Computer Science M.Sc. Degree Student at University of Padua
-  - 🏫 Sport Science M.Sc. Degree Student at San Raffaele University
+  - 🏫 Computer Science B.Sc. Degree Student at University of Padua
+  - 🏫 Sport Science B.Sc. Degree Student at San Raffaele University
 - ⚡ Fun facts: 
   - 🏅 Sport enthusiast
   
